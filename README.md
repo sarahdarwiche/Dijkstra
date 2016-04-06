@@ -1,2 +1,2 @@
 Shortest path algorithm
-To run: snl > game.txt# Dijkstra
+To run: ./snl > game.txt# Dijkstra
