@@ -20,7 +20,7 @@ i - number of games
 ladder count 
 <br>snake count </br>
 ladder start index, ladder end index (repeated ladder count times) </br>
-<br>snake start index, snake end index (repeated snake count times) </br>
+snake start index, snake end index (repeated snake count times) </br>
 
 /***************************************************************************************** <br>*** Output Format</br>
  ****************************************************************************************/
