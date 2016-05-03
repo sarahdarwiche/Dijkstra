@@ -27,7 +27,7 @@ i - number of games
 
 Board Game #
 <br>Steps taken to reach finish point (n by n index).</br>
-<br>A plus represents a ladder being utilized.</br>
+A plus represents a ladder being utilized.
 
 /***************************************************************************************** <br>*** End </br>
  ****************************************************************************************/
