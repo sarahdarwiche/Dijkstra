@@ -152,6 +152,7 @@ void Game::solve() {
   //get path and save solution
   int n = size * size; //last cell on board
   solution = graph->get_shortest_path(1,n);
+  graph->save_as_dot("visual.gv");
   
 }
 
@@ -176,6 +177,7 @@ void Game::print_solution() {
   
   cout << solution[0]; //last cell on board  
   cout << endl;
+ 
 }
 
 /*****************************************************************************************

@@ -53,6 +53,8 @@ public:
   vector<int> get_shortest_path(int start, int end);
   void print_shortest_paths(int start);
   int get_edge_weight(int i, int j);
+  void test_graph();
+  void test_dijkstra_one();
   
 };
 

@@ -10,7 +10,7 @@ int main (int argc, char* argv[]) {
   int game_count;
   cin >> game_count; //read number of games
   
-  int i;
+  int i= 1;
   for(i = 1; i <= game_count; i++) { //iterate over games
     
     //create game object
