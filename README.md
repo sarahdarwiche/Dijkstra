@@ -4,7 +4,7 @@ Sarah Darwiche
  ****************************************************************************************/
 
 Dijkstra's shortest path algorithm implemented with snakes and ladders.
-Includes a visual representation of the solution.
+<br> Includes a visual representation of the solution. </br>
 
 
 /***************************************************************************************** <br>*** To run </br>
@@ -14,7 +14,6 @@ snl > gamefile.txt
 
 
 /***************************************************************************************** <br>*** Input Format</br>
- * Input Format
  ****************************************************************************************/
 
 i - number of games
@@ -24,16 +23,14 @@ snake count
 ladder start index, ladder end index (repeated ladder count times)
 snake start index, snake end index (repeated snake count times)
 
-/*****************************************************************************************
- * Output Format
+/*****************************************************************************************<br>*** Output Format</br>
  ****************************************************************************************/
 
 Board Game #
 Steps taken to reach finish point (n by n index).
 A plus represents a ladder being utilized.
 
-/*****************************************************************************************
- * End
+/*****************************************************************************************<br>*** End </br>
  ****************************************************************************************/
 
 
