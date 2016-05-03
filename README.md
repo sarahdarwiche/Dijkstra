@@ -17,18 +17,18 @@ snl > gamefile.txt
  ****************************************************************************************/
 
 i - number of games
-N (game size, will be N*N board) 
-ladder count 
-snake count
-ladder start index, ladder end index (repeated ladder count times)
-snake start index, snake end index (repeated snake count times)
+<br>N (game size, will be N*N board) </br>
+<br>ladder count </br>
+<br>snake count </br>
+<br>ladder start index, ladder end index (repeated ladder count times) </br>
+<br>snake start index, snake end index (repeated snake count times) </br>
 
 /***************************************************************************************** <br>*** Output Format</br>
  ****************************************************************************************/
 
 Board Game #
-Steps taken to reach finish point (n by n index).
-A plus represents a ladder being utilized.
+<br>Steps taken to reach finish point (n by n index).</br>
+<br>A plus represents a ladder being utilized.</br>
 
 /***************************************************************************************** <br>*** End </br>
  ****************************************************************************************/
