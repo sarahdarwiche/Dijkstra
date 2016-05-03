@@ -17,9 +17,9 @@ snl > gamefile.txt
 
 i - number of games
 <br>N (game size, will be N*N board) </br>
-<br>ladder count </br>
+ladder count 
 <br>snake count </br>
-<br>ladder start index, ladder end index (repeated ladder count times) </br>
+ladder start index, ladder end index (repeated ladder count times) </br>
 <br>snake start index, snake end index (repeated snake count times) </br>
 
 /***************************************************************************************** <br>*** Output Format</br>
