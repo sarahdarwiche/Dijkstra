@@ -48,7 +48,7 @@ public:
   void print() const;
   int size() const;
   void add_edge(int source, int dest, int weight) const;
-  void save_as_dot(string fname) const; //added by baba
+  void save_as_dot(string fname) const; 
   void dijkstra(int s);
   vector<int> get_shortest_path(int start, int end);
   void print_shortest_paths(int start);
