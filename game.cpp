@@ -153,6 +153,7 @@ void Game::solve() {
   int n = size * size; //last cell on board
   solution = graph->get_shortest_path(1,n);
   graph->save_as_dot("visual.gv");
+  graph->save_as_dot("visual.txt");
   
 }
 
