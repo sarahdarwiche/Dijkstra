@@ -29,6 +29,9 @@ Board Game #
 <br>Steps taken to reach finish point (n by n index).</br>
 A plus represents a ladder being utilized.
 
+For visuals
+http://www.graphviz.org
+
 /***************************************************************************************** <br>*** End </br>
  ****************************************************************************************/
 
